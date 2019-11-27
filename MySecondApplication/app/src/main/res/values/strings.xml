@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MySecondApplication</string>
+    <string name="app_name">My Second Application</string>
     <string name="edit_name">Name</string>
     <string name="edit_password">Password</string>
     <string name="edit_email">Email</string>
